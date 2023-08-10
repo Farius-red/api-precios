@@ -25,6 +25,9 @@ MVN TEST
 
 ![Texto alternativo](https://github.com/Farius-red/api-precios/blob/master/imgDocumentacion/swagger1.png)
 
+
+prueba de que funciona 
+
 ![Texto alternativo](https://github.com/Farius-red/api-precios/blob/master/imgDocumentacion/swagger2.png)
 
 
